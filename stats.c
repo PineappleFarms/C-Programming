@@ -1,7 +1,5 @@
 /*********************************************************
  * Diego Lopez
- * UNC Charlotte - ITCS 2116
- * HW3
  *
  * stats.c - This program reads in a set of numbers into an
  * array, and then computes some standard statistics on the numbers.
