@@ -1,7 +1,5 @@
 /*********************************************************
  * Diego Lopez
- * UNC Charlotte - ITCS 2116
- * HW3
  *
  * quadratic_solver.c - This program calculates the roots
  * of a  quadratic equation using the quadratic formula.
